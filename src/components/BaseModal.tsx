@@ -149,6 +149,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 16,
     paddingBottom: 16,
+    fontWeight:'400',
+    fontFamily:'Graphik-Medium-Trial',
   },
   headerLeft: {
     flex: 1,
@@ -160,9 +162,10 @@ const styles = StyleSheet.create({
   },
   headerTitle: {
     fontSize: 18,
-    fontWeight: '600',
+    fontWeight: '500',
     color: Colors.textPrimary,
     textAlign: 'center',
+    fontFamily:'Graphik-Medium-Trial',
   },
   headerRight: {
     flex: 1,
@@ -170,7 +173,7 @@ const styles = StyleSheet.create({
   },
   doneButton: {
     fontSize: 16,
-    fontWeight: '600',
+    fontWeight: '500',
     color: Colors.primary,
   },
 });

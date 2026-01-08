@@ -344,7 +344,7 @@ const styles = StyleSheet.create({
     color: Colors.textSecondary,
   },
   wheelItemTextSelected: {
-    fontWeight: '600',
+    fontWeight: '500',
     color: Colors.textPrimary,
   },
 });
