@@ -48,6 +48,8 @@ export const SearchInput = React.forwardRef<TextInput, SearchInputProps>(({
         ref={ref}
         style={[styles.input, style]}
         placeholderTextColor={Colors.textPlaceholder}
+        underlineColorAndroid="transparent"
+        selectionColor={Colors.primary}
         {...textInputProps}
       />
     </View>
@@ -71,7 +73,10 @@ const styles = StyleSheet.create({
   input: {
     flex: 1,
     fontSize: 16,
+    fontFamily: 'Graphik-Regular-Trial',
     color: Colors.textPrimary,
+    paddingVertical: 0,
+    paddingHorizontal: 0,
   },
 });
 
