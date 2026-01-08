@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Graphik-Regular-Trial.otf",
+      "sha1": "fdff116cfdbd9b0f6d99ce2772a57bfc31397e50"
+    },
+    {
+      "path": "src/assets/fonts/Graphik-Medium-Trial.otf",
+      "sha1": "10a6e965aeecb194f7db568540f5790c3dd84339"
+    },
+    {
+      "path": "src/assets/fonts/Graphik-Bold-Trial.otf",
+      "sha1": "5e7a093b2ed19c4a8389e9ff04c2022b6af3611c"
+    },
+    {
+      "path": "src/assets/fonts/Graphik-Semibold-Trial.otf",
+      "sha1": "1f7f9a7d4b4dc7d7a942f47bbaa59c45c5342abf"
+    }
+  ]
+}
